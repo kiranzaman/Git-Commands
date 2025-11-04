@@ -7,8 +7,6 @@ import sys
 """
 hello_world.py
 
-Some change in file
-
 Simple, testable "Hello, World!" example following best practices:
 - Pure function that returns a string
 - Small CLI entrypoint that prints
